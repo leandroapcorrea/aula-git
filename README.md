@@ -14,3 +14,4 @@
 
 * Criei "README.md" para atender a fase 1 do projeto e coloquei ele no estágio para ser "comitado" utilizando o comando **git add README.md**
 * Fiz o commit do arquivo "READ.md" utilizando o comando **git commit -m 'Criando o Arquivo README'**
+* Enviei os arquivos para o respositório remoto utilizando o commando **git push origin master**
